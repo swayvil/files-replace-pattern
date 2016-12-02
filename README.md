@@ -4,7 +4,7 @@ Replace pattern in files
 ## How to
 Build with maven:
 ```
-mv package
+mvn package
 ```
 
 Display usage:
